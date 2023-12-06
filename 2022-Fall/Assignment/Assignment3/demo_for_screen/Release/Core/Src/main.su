@@ -1,0 +1,14 @@
+../Core/Src/main.c:63:6:Load_Drow_Dialog	8	static
+../Core/Src/main.c:76:6:gui_draw_hline	24	static
+../Core/Src/main.c:85:6:gui_fill_circle	56	static
+../Core/Src/main.c:111:5:my_abs	0	static
+../Core/Src/main.c:121:6:screen_print	24	static
+../Core/Src/main.c:167:6:screen_norm_print	24	static
+../Core/Src/main.c:211:6:screen_ignore_print	24	static
+../Core/Src/main.c:254:6:change_state	0	static
+../Core/Src/main.c:264:6:lcd_draw_bline	64	static
+../Core/Src/main.c:331:1:_ttywrch	0	static
+../Core/Src/main.c:410:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Core/Src/main.c:621:6:rtp_test	56	static
+../Core/Src/main.c:342:5:main	48	static,ignoring_inline_asm
+../Core/Src/main.c:865:6:Error_Handler	0	static,ignoring_inline_asm

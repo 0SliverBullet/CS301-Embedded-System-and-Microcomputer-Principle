@@ -1,0 +1,10 @@
+Part1:
+decode: 101010 011 11010 00101 1110 01001 011
+encode: welcome to cs
+
+Part2:
+101010 011 101
+cs301
+
+Hi SUSTC 
+Hi SUSTecher
