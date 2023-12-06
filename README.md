@@ -19,7 +19,7 @@ This is a repository for SUSTech CS301 Embedded System and Microcomputer Princip
   >
   > Port the LCD driver from keilv5 to STM32Cube, enable the usage of LCD screen in MiniSTM32 V4.
 
-  `Assignment1`: [Huffman Encoding and Decoding Machine(HEDM)](https://github.com/0SliverBullet/CS301-Embedded-System-and-Microcomputer-Principle/tree/main/2023-Fall/Assignment/2023Assignment1)
+  `Assignment1`: [Huffman Encoding and Decoding Machine(HEDM)](https://github.com/0SliverBullet/CS301-Embedded-System-and-Microcomputer-Principle/tree/main/2023-Fall/Assignment/Assignment1)
 
   `Assignment2`: Addition and Subtraction Game
 
