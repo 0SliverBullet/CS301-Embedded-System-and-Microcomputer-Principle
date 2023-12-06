@@ -11,11 +11,11 @@ This is a repository for SUSTech CS301 Embedded System and Microcomputer Princip
 
   `Final Project`: [TBG Battle System](https://github.com/0SliverBullet/CS301-Embedded-System-and-Microcomputer-Principle/tree/main/2022-Fall/CS301-2022FALL-project-GROUP1)
 
-- I am a **Student Assistant (SA)** for this course in 2023 Fall now. This job requires me answer students' questions in the lab classroom on 14:00 - 16:00, Tuesday,  answer students' questions in QQ group, design assignments and check assignments, check lab practices and register scores for each examinee.
+- I am a **Student Assistant (SA)** for this course in 2023 Fall now. This job requires me to answer students' questions in the lab classroom on 14:00 - 16:00, Tuesday,  answer students' questions in QQ group, design assignments and check assignments, check lab practices and register scores for each examinee.
 
   The main contributions as a student assistant is summarized as follows:
 
-  > Responsible for the design of Assignment1 in 2023-Fall. 
+  > Responsible for the design of Assignment1 in 2023 Fall. 
   >
   > Port the LCD driver from keilv5 to STM32Cube, enable the usage of LCD screen in MiniSTM32 V4.
 
@@ -27,5 +27,5 @@ This is a repository for SUSTech CS301 Embedded System and Microcomputer Princip
 
   `Final Project`:  Smart-watch
 
-  With this experience as a student assistant, I have gained a deeper understanding of embedded programming, honed my ability to port code, and honed my ability to find code bugs. More patient in answering students' questions, cultivating the ability to communicate with superiors, and getting to know colleagues who is a graduate student, Shiyu Chen... It is an experience of a previous work experience before entering society!
+  With this experience as a student assistant, I have gained a deeper understanding of embedded programming, honed my ability to port code, and honed my ability to find code bugs. More patient in answering students' questions, cultivating the ability to communicate with superiors, and getting to know a colleague who is a graduate student, Shiyu Chen... It is a work experience before entering society!
 
