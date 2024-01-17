@@ -11,6 +11,17 @@ This is a repository for SUSTech CS301 Embedded System and Microcomputer Princip
 
   `Final Project`: [TBG Battle System](https://github.com/0SliverBullet/CS301-Embedded-System-and-Microcomputer-Principle/tree/main/2022-Fall/CS301-2022FALL-project-GROUP1)
 
+  | Content                    | Weight | Score |
+  | -------------------------- | ------ | ----- |
+  | in-class quiz              | 30%    | 97.5  |
+  | lab practice               | 11%    | 91.63 |
+  | lab programming assignment | 10%    | 100   |
+  | project                    | 9%     | 100   |
+  | final exam                 | 40%    | 100   |
+  | course score               | 100%   | 98.3  |
+
+  
+
 - I am a **Student Assistant (SA)** for this course in 2023 Fall now. This job requires me to answer students' questions in the lab classroom on 14:00 - 16:00, Tuesday,  answer students' questions in QQ group, design assignments and check assignments, check lab practices and register scores for each examinee.
 
   The main contributions as a student assistant is summarized as follows:
