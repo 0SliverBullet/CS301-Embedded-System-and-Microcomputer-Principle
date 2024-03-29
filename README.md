@@ -22,7 +22,7 @@ This is a repository for SUSTech CS301 Embedded System and Microcomputer Princip
 
   
 
-- I was a **Student Teaching Assistant (SA)** for this course in the Fall semester of 2023. This job requires me to answer students' questions in the lab classroom from 14:00 - 16:00, on Tuesday,  answer students' questions in the QQ group, design assignments and check assignments, check lab practices and register scores for each examinee.
+- I was a **Student Teaching Assistant (SA)** for this course in 2023 Fall. This job requires me to answer students' questions in the lab classroom from 14:00 - 16:00, on Tuesday,  answer students' questions in the QQ group, design assignments and check assignments, check lab practices and register scores for each examinee.
 
   The main contributions as a student assistant are summarized as follows:
 
