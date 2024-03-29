@@ -1,7 +1,7 @@
 # CS301 Embedded System and Microcomputer Principle
 This is a repository for SUSTech CS301 Embedded System and Microcomputer Principle. **Assignments or projects with hyperlinks are recommended for access**.
 
-- I was a student who learned this course in 2022 Fall, **one of the only two sophomores in this course while other students are juniors and seniors at that time**. The folder `2022-Fall` includes Lecture, Lab, Assignment, Final Project, etc. Enjoy your exploration on this repository!
+- I was a student who learned this course in 2022 Fall, **one of the only two sophomores in this course while other students were juniors and seniors at that time**. The folder `2022-Fall` includes Lectures, labs, Assignments, Final Projects, etc. Enjoy your exploration of this repository!
 
   `Assignment1`: [Morse Code](https://github.com/0SliverBullet/CS301-Embedded-System-and-Microcomputer-Principle/tree/main/2022-Fall/Assignment/Assignment1)
 
@@ -22,9 +22,9 @@ This is a repository for SUSTech CS301 Embedded System and Microcomputer Princip
 
   
 
-- I am a **Student Assistant (SA)** for this course in 2023 Fall now. This job requires me to answer students' questions in the lab classroom on 14:00 - 16:00, Tuesday,  answer students' questions in QQ group, design assignments and check assignments, check lab practices and register scores for each examinee.
+- I was a **Student Teaching Assistant (SA)** for this course in the Fall semester of 2023. This job requires me to answer students' questions in the lab classroom from 14:00 - 16:00, on Tuesday,  answer students' questions in the QQ group, design assignments and check assignments, check lab practices and register scores for each examinee.
 
-  The main contributions as a student assistant is summarized as follows:
+  The main contributions as a student assistant are summarized as follows:
 
   > Responsible for the design of Assignment1 in 2023 Fall. 
   >
@@ -40,3 +40,6 @@ This is a repository for SUSTech CS301 Embedded System and Microcomputer Princip
 
   With this experience as a student assistant, I have gained a deeper understanding of embedded programming, honed my ability to port code, and honed my ability to find code bugs. More patient in answering students' questions, cultivating the ability to communicate with superiors, and getting to know a colleague who is a graduate student, Shiyu Chen... It is a work experience before entering society!
 
+  I am extremely honoured to be given the 2023 **Excellent Student Teaching Assistant** fall semester in January 2024.
+
+  (Updated in March 2024)
